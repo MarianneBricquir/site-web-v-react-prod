@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7abe88f0.css",
+    "main.js": "/static/js/main.b070072d.js",
+    "static/media/autreprojet-2.png": "/static/media/autreprojet-2.c2f2cec5301e7522126c.png",
+    "static/media/img-1.jpg": "/static/media/img-1.6055e0a7b6b29548b1a8.jpg",
+    "static/media/projet3-lapanthere.png": "/static/media/projet3-lapanthere.224e4c930709de69cbcc.png",
+    "static/media/projet6-kasa.png": "/static/media/projet6-kasa.5dec1c74b429b2a89525.png",
+    "static/media/ill-dev-web.png": "/static/media/ill-dev-web.b5652dba466546919ef3.png",
+    "static/media/mask-group-1.png": "/static/media/mask-group-1.9b9d84f40d0fba19bb55.png",
+    "static/media/ill-env.png": "/static/media/ill-env.dc000e90f26fd1e2b702.png",
+    "static/media/mask-group-3.png": "/static/media/mask-group-3.af460932fd8f03c26d8c.png",
+    "static/media/mask-group-4.png": "/static/media/mask-group-4.a956fb7e5c2ab52d26d1.png",
+    "static/media/mask-group-2.png": "/static/media/mask-group-2.0fc02dca8d70bc85a476.png",
+    "static/media/ill-geomatique.png": "/static/media/ill-geomatique.f7a2cb09a7e2d01ea47e.png",
+    "static/media/projet4-kanap.png": "/static/media/projet4-kanap.563ed4e6a1c6f8b606d4.png",
+    "static/media/photo-cv.png": "/static/media/photo-cv.97e4c876de03610904d7.png",
+    "static/media/autreprojet-1.png": "/static/media/autreprojet-1.16b0726f9a2dc7e77d97.png",
+    "static/media/projet2-ohmyfood.png": "/static/media/projet2-ohmyfood.fb22965bfd510b5c8df4.png",
+    "static/media/projet5-piiquante.png": "/static/media/projet5-piiquante.5b92767fb137ac2231f7.png",
+    "index.html": "/index.html",
+    "main.7abe88f0.css.map": "/static/css/main.7abe88f0.css.map",
+    "main.b070072d.js.map": "/static/js/main.b070072d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7abe88f0.css",
+    "static/js/main.b070072d.js"
+  ]
+}
